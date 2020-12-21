@@ -3,8 +3,11 @@
 ### Group memebers
 *******************
 Chang Gu (cg3168)
+
 Junyan Guo (jg4184)
+
 Binyao Cheng (bc2866)
+
 Ruichen Tang (rt2756)
 *******************
 
