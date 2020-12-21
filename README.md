@@ -1,5 +1,7 @@
 # Neural-Style-Transfer-Using-VGG-19
 
+You can visit our jupyter notebook [here](https://github.com/Junyan-Guo/Neural-Style-Transfer-Using-VGG-19/blob/main/Notebook/trials_20201220.ipynb).
+
 ### Group memebers
 *******************
 Chang Gu (cg3168)
